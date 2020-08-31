@@ -15,7 +15,7 @@ Conheci a programação com meus 15 anos, desde então venho estudando e me aven
 ## Contato
 
 [Linkedin](https://www.linkedin.com/in/wanderson-sousa) |
-[Instagram](https://www.instagram.com/wanderson.dev/) |
+[Instagram](https://www.instagram.com/wander_dev) |
 [Facebook](https://www.facebook.com/profile.php?id=100027873699241) 
 
 ## Minhas contribuições
