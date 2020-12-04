@@ -11,6 +11,7 @@ Conheci a programação com meus 15 anos, desde então venho estudando e me aven
 
 --- 
 * Atualmente estou fazendo Análise de Sistemas no Instituto Federal do Piauí. :books:
+* Trabalhando meio período como estágiario na [G7 Sistemas](https://www.g7sistemas.srv.br/) :office:
 
 ## Contato
 
