@@ -22,4 +22,4 @@ Conheci a programação com meus 15 anos, desde então venho estudando e me aven
 ## Minhas contribuições
 ![ws GitHub Stats](https://github-readme-stats.vercel.app/api?username=wandersonsousa&hide=["stars"]&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonsousa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonsousa)](https://github.com/wandersonsousa/github-readme-stats)
