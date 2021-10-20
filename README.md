@@ -11,7 +11,7 @@ Conheci a programação com meus 15 anos, desde então venho estudando e me aven
 
 --- 
 * Atualmente cursando Análise de Sistemas no Instituto Federal do Piauí :books:
-* Trabalhando como Desenvolvedor Júnior na [Codefreela](https://codefreela.com/) :office:
+* Trabalhando como Desenvolvedor Frontend na [Codefreela](https://codefreela.com/) :office:
 
 ## Contato
 
