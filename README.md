@@ -4,7 +4,7 @@
 
 ## Me chamo Wanderson de Sousa
 
-Conheci a programação com meus 15 anos, desde então venho estudando e me aventurando no mundo da tecnologia, tenho foco atual em tecnologias web. :computer:
+Conheci a programação com meus 15 anos, desde então venho estudando e me aventurando no mundo da tecnologia, tenho foco atual em tecnologias web/webscraping e automação . :computer:
 
 >Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.
 
