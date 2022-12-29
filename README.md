@@ -1,23 +1,23 @@
-# Olá :grinning:
+# hello :grinning:
 
 ---
 
-## Me chamo Wanderson de Sousa
+## My name is Wanderson de Sousa
 
-Conheci a programação com meus 15 anos, desde então venho estudando e me aventurando no mundo da tecnologia, tenho foco atual em tecnologias web/webscraping e automação . :computer:
+I got to know programming when I was 15 years old, since then I've been studying and venturing into the world of technology, my current focus is on web/webscraping technologies and automation. :computer:
 
->Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.
+>Programmers and artists are the only professionals who have their own profession as a hobby.
 
 
---- 
-* Atualmente cursando Análise de Sistemas no Instituto Federal do Piauí :books:
-* Trabalhando como Desenvolvedor Frontend na [Codefreela](https://codefreela.com/) :office:
+---
+* Currently studying Systems Analysis at the Federal Institute of Piauí :books:
+* Working as Frontend Developer at [Codefreela](https://codefreela.com/) :office:
 
-## Contato
+## Contact
 
 [Linkedin](https://www.linkedin.com/in/wanderson-sousa) |
 [Instagram](https://www.instagram.com/wander_dev) |
-[Whatsapp](https://api.whatsapp.com/send/?phone=5586981748014&text=Ol%C3%A1,%20vim%20pelo%20seu%20portf%C3%B3lio%20no%20github,%20voc%C3%AA%20est%C3%A1%20dispon%C3%ADvel%20?)
+[Whatsapp](https://api.whatsapp.com/send/?phone=5586981748014&text=Ol%C3%A1,%20vim%20pelo%20seu%20portf%C3%B3lio%20no%20github,%20voc%C3%AA %20is%C3%A1%20available%C3%ADvel%20?)
 
-## Minhas contribuições
+## My Contributions
 ![ws GitHub Stats](https://github-readme-stats.vercel.app/api?username=wandersonsousa&hide=["stars"]&show_icons=true)
