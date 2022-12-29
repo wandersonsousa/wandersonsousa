@@ -17,7 +17,7 @@ I got to know programming when I was 15 years old, since then I've been studying
 
 [Linkedin](https://www.linkedin.com/in/wanderson-sousa) |
 [Instagram](https://www.instagram.com/wander_dev) |
-[Whatsapp](https://api.whatsapp.com/send/?phone=5586981748014&text=Ol%C3%A1,%20vim%20pelo%20seu%20portf%C3%B3lio%20no%20github,%20voc%C3%AA %20is%C3%A1%20available%C3%ADvel%20?)
+[Whatsapp](https://api.whatsapp.com/send/?phone=5586981748014&text=Ol%C3%A1,%20vim%20pelo%20seu%20portf%C3%B3lio%20no%20github,%20voc%C3%AA%20est%C3%A1%20dispon%C3%ADvel%20?)
 
-## My Contributions
+## Stats
 ![ws GitHub Stats](https://github-readme-stats.vercel.app/api?username=wandersonsousa&hide=["stars"]&show_icons=true)
