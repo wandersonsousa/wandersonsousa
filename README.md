@@ -2,7 +2,7 @@
 
 ---
 
-## My name is Wanderson de Sousa
+## My name is Wanderson 
 
 I got to know programming when I was 15 years old, since then I've been studying and venturing into the world of technology, my current focus is on web/webscraping technologies and automation. :computer:
 
