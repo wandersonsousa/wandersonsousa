@@ -8,12 +8,9 @@ If you're here because I applied to your company hire me now--🤑...kidding, We
 
 I got to know programming when I was 15 years old, since then I've been studying and venturing into the world of technology, my current focus is on web/webscraping technologies and automation. :computer:
 
->Programmers and artists are the only professionals who have their own profession as a hobby.
-
-
 ---
 * Currently studying Systems Analysis at the Federal Institute of Piauí :books:
-* Working as Frontend Developer at [Codefreela](https://codefreela.com/) :office:
+* Working as Fullstack Developer at [Codefreela](https://codefreela.com/) :office:
 
 ## Contact
 
